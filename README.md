@@ -1,3 +1,8 @@
+
+Preprocessed images are in ```/preprocessed```. 
+
+Preprocessed images are 512x512px jpegs with mode = 'RGB'
+
 |product_name                                |image                                                                                                                                                         |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Amazon Echo 2                               |<img src='https://raw.githubusercontent.com/vinayshanbhag/images/main/preprocessed/amazon_echo_2_1.jpg' height='30'>                                                       |
